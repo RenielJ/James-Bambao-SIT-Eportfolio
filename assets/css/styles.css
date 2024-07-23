@@ -1,3 +1,7 @@
 img {
     object-fit: contain;
 }
+
+.nav-bar{
+    display: inline-flexbox;
+}
